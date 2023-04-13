@@ -1,0 +1,2 @@
+Enter principal amount (P): \nEnter time (T): \nEnter rate (R): \n129.600006
+Enter marks of five subjects: \nTotal = 435.000000\nAverage = 87.000000\nPercentage = 87.000000
