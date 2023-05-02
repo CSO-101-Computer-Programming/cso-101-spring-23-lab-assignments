@@ -1,0 +1,14 @@
+{
+  "task-1": 
+  {
+    "prompt": "Enter the string: ",
+    "input": "HeLlo wOrlD",
+    "output": "HELLO WORLD"
+  },
+  "task-1": 
+  {
+    "prompt": "Enter the string: ",
+    "input": "This is CSO101 Lab",
+    "output": "18"
+  }  
+}
