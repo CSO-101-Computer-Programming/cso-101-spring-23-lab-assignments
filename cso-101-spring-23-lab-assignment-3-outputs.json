@@ -1,13 +1,13 @@
 {
   "part-1": 
   {
-    "prompt": "Enter the string: ",
+    "prompts": "Enter the string: ",
     "inputs": "HeLlo wOrlD",
     "outputs": "HELLO WORLD"
   },
   "part-2": 
   {
-    "prompt": "Enter the string: Length of the string you entered is: ",
+    "prompts": "Enter the string: Length of the string you entered is: ",
     "inputs": "This is CSO101 Lab",
     "outputs": "18"
   }  
