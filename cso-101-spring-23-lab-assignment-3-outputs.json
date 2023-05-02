@@ -1,11 +1,11 @@
 {
-  "task-1": 
+  "part-1": 
   {
     "prompt": "Enter the string: ",
     "inputs": "HeLlo wOrlD",
     "outputs": "HELLO WORLD"
   },
-  "task-1": 
+  "part-2": 
   {
     "prompt": "Enter the string: ",
     "inputs": "This is CSO101 Lab",
