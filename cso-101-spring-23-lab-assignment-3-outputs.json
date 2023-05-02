@@ -10,5 +10,6 @@
     "prompts": "Enter the string: Length of the string you entered is: ",
     "inputs": "This is CSO101 Lab",
     "outputs": "18"
-  }  
+  },
+  "x": "y"
 }
