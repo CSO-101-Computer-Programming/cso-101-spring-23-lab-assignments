@@ -1,7 +1,7 @@
 {
   "part-1": 
   {
-    "prompts": "Enter the string: ",
+    "prompts": "Enter the string: Capitalized string is: ",
     "inputs": "HeLlo wOrlD",
     "outputs": "HELLO WORLD"
   },
