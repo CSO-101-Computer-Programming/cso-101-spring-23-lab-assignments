@@ -7,7 +7,7 @@
   },
   "part-2": 
   {
-    "prompt": "Enter the string: ",
+    "prompt": "Enter the string: Length of the string you entered is: ",
     "inputs": "This is CSO101 Lab",
     "outputs": "18"
   }  
